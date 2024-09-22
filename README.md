@@ -22,11 +22,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/JessJNielsen/git_repo_id.git"
+      "url": "https://github.com/JessJNielsen/membercare-apiclient-php.git"
     }
   ],
   "require": {
-    "JessJNielsen/git_repo_id": "*@dev"
+    "JessJNielsen/membercare-apiclient-php": "*@dev"
   }
 }
 ```
